@@ -6,7 +6,8 @@ on:
   pull_request:
     branches: [ mian ]
     
-    
+env:
+  test: 1
 
 jobs:
 
